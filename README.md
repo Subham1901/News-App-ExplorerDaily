@@ -1,4 +1,4 @@
-# newsappindia
+# ExplorerDaily NewsApp
 
 A new Flutter project.
 
